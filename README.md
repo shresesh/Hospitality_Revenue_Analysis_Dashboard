@@ -27,4 +27,4 @@ This Power BI project provides a strategic, data-driven analysis of hotel revenu
 3. Open the `.pbix` file to explore the interactive visualizations and DAX measures.
 
 ---
-**Project by Shreyas Seshadri * *Connect with me on [LinkedIn](https://www.linkedin.com/in/shresesh/)*
+**Project by Shreyas Seshadri** * *Connect with me on [LinkedIn](https://www.linkedin.com/in/shresesh/)*
